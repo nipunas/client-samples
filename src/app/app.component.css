@@ -1,0 +1,23 @@
+
+.add-task-holder{
+    background-color:rgb(50, 50, 50);
+    padding: 5px 10px;
+    border-radius: 5px;
+    width: 50%
+}
+
+.add-task-holder h2{
+    color: white;
+}
+
+.btn{
+    color: #070707;
+    padding: 3px;
+    margin: 4px 0;
+    width: 100px;
+}
+
+.small-text{
+    color: white;
+    font-size: .7em;
+}
